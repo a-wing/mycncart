@@ -1,0 +1,47 @@
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: tax_classes in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 183
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 183
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: subtract in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 209
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: stock_statuses in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 223
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 223
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: length in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 292
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: width in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 295
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: height in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 298
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: length_classes in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 307
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 307
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: weight in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 320
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: weight_classes in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 327
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 327
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: status in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 341
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: sort_order in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 354
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: manufacturer in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 364
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: manufacturer_id in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 365
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: product_filters in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 388
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 388
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: product_downloads in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 432
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 432
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: product_relateds in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 445
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 445
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: product_attributes in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 467
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 467
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: product_discounts in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 774
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 774
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: product_specials in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 827
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 827
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: points in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 914
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: customer_groups in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 926
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 926
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: layouts in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 950
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 950
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 998
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1025
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1054
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1083
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1112
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1162
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: token in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1192
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: customer_groups in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1388
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1388
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: customer_groups in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1415
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1415
+2016-11-13 9:33:28 - PHP Notice:  Undefined variable: customer_groups in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1464
+2016-11-13 9:33:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\AppServ\www\catalog\view\theme\default\template\crowd\product_form.tpl on line 1464
